@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words. 
+A branch is a different version of your original commits to git, that allows you to make changes without affecting your original commits. 
