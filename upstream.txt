@@ -1,1 +1,1 @@
-The upstream remote is used to sync changeds made on your fork to the original repository. 
+The upstream remote is used to sync changes made on your fork to the original repository.
